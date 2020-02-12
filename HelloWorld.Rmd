@@ -1,9 +1,0 @@
----
-title: "HelloWorld"
-author: "Paulo"
-date: "2/12/2020"
-output: word_document
----
-```{r}
-## This is a markdown file
-```
